@@ -65,7 +65,7 @@ export default function LandingPage() {
           href: "#story",
         },
       ]}
-      imageSrc="http://img.b2bpic.net/free-photo/young-transgender-person-using-hair-net_23-2148827034.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/young-transgender-person-using-hair-net_23-2148827034.jpg?_wi=1"
       showBlur={true}
       avatars={[
         {
@@ -108,7 +108,7 @@ export default function LandingPage() {
           phoneTwo: {
             imageSrc: "http://img.b2bpic.net/free-photo/top-view-gold-chains-underwater_23-2149836406.jpg",
           },
-          imageSrc: "http://img.b2bpic.net/free-photo/young-transgender-person-using-hair-net_23-2148827034.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/young-transgender-person-using-hair-net_23-2148827034.jpg?_wi=2",
           imageAlt: "luxury gold pendant necklace detail",
         },
         {
@@ -120,7 +120,7 @@ export default function LandingPage() {
           phoneTwo: {
             imageSrc: "http://img.b2bpic.net/free-photo/black-white-chocolate-art-designed-isolated-yummy-whole-white-floor_140725-14144.jpg",
           },
-          imageSrc: "http://img.b2bpic.net/free-photo/expensive-golden-ring-with-white-powder-background_23-2150347033.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/expensive-golden-ring-with-white-powder-background_23-2150347033.jpg?_wi=1",
           imageAlt: "luxury gold pendant necklace detail",
         },
         {
@@ -132,7 +132,7 @@ export default function LandingPage() {
           phoneTwo: {
             imageSrc: "http://img.b2bpic.net/free-photo/close-up-military-protection-item-background_23-2149341300.jpg",
           },
-          imageSrc: "http://img.b2bpic.net/free-photo/fashion-portrait-two-stylish-caucasian-woman-blazers-french-cap-classic-white-hat-stand_343596-2183.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/fashion-portrait-two-stylish-caucasian-woman-blazers-french-cap-classic-white-hat-stand_343596-2183.jpg?_wi=1",
           imageAlt: "luxury gold pendant necklace detail",
         },
       ]}
@@ -211,7 +211,7 @@ export default function LandingPage() {
           description: "Eleganza senza tempo.",
         },
       ]}
-      imageSrc="http://img.b2bpic.net/free-photo/expensive-golden-ring-with-white-powder-background_23-2150347033.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/expensive-golden-ring-with-white-powder-background_23-2150347033.jpg?_wi=2"
     />
   </div>
 
@@ -228,7 +228,7 @@ export default function LandingPage() {
           role: "Cliente",
           company: "Milano",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/fashion-portrait-two-stylish-caucasian-woman-blazers-french-cap-classic-white-hat-stand_343596-2183.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/fashion-portrait-two-stylish-caucasian-woman-blazers-french-cap-classic-white-hat-stand_343596-2183.jpg?_wi=2",
         },
         {
           id: "2",
